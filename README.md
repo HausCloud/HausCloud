@@ -1,25 +1,25 @@
 <h1 align="center">Hey there! I'm Anthony - aka
 	<a href="https://hauscloud.me" target="_blank" rel="noopener noreferrer">HausCloud</a>
-	<img src="https://github.com/HausCloud/README_test/blob/master/images/gifs/waving_hand.gif" width="30px" height="30px">
-	<img src="https://github.com/HausCloud/README_test/blob/master/images/gifs/nerd_face.gif" width="30px" height="30px">
+	<img src="https://github.com/HausCloud/HausCloud/blob/master/images/gifs/waving_hand.gif" width="30px" height="30px">
+	<img src="https://github.com/HausCloud/HausCloud/blob/master/images/gifs/nerd_face.gif" width="30px" height="30px">
 	<br/>
 	<br/>
 	<div>
 		<span>
 			<a href="https://linkedin.com/in/HausCloud/" target="_blank">
-				<img src="https://github.com/HausCloud/README_test/blob/master/images/svgs/linkedin.svg" width="50px" height="50px">
+				<img src="https://github.com/HausCloud/HausCloud/blob/master/images/svgs/linkedin.svg" width="50px" height="50px">
 			</a>
 		</span>
 		&emsp;
 		<span>
 			<a href="https://twitter.com/HausCloud" target="_blank">
-				<img src="https://github.com/HausCloud/README_test/blob/master/images/svgs/twitter.svg" width="50px" height="50px">
+				<img src="https://github.com/HausCloud/HausCloud/blob/master/images/svgs/twitter.svg" width="50px" height="50px">
 			</a>
 		</span>
 		&emsp;
 		<span>
 			<a href="https://buymeacoffee.com/HausCloud" target="_blank">
-				<img src="https://github.com/HausCloud/README_test/blob/master/images/svgs/buymeacoffee.svg" width="50px" height="50px">
+				<img src="https://github.com/HausCloud/HausCloud/blob/master/images/svgs/buymeacoffee.svg" width="50px" height="50px">
 			</a>
 		</span>
 		&emsp;
