@@ -56,10 +56,7 @@ if __name__ == '__main__':
     me.determination()
 ```
 <div align="center">
-<a href="https://github.com/HausCloud">
+<a href="https://hauscloud.me">
 	<img align="center" src="https://github-readme-stats.hauscloud.vercel.app/api?username=HausCloud&show_icons=true&theme=buefy">
-</a>
-<a href="https://github.com/HausCloud">
-	<img align="center" src="https://github-readme-stats.hauscloud.vercel.app/api/top-langs/?username=HausCloud&layout=compact">
 </a>
 </div>
