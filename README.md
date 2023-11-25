@@ -1,12 +1,11 @@
-<h1 align="center">Hey there! I'm Anthony - aka
-	<a href="https://hauscloud.me" target="_blank" rel="noopener noreferrer">HausCloud</a>
+<h1 align="center">Hey there! I'm Anthony - aka HausCloud
 	<img src="https://github.com/HausCloud/HausCloud/blob/master/images/gifs/waving_hand.gif" width="30px" height="30px">
 	<img src="https://github.com/HausCloud/HausCloud/blob/master/images/gifs/nerd_face.gif" width="30px" height="30px">
 	<br/>
 	<br/>
 	<div>
 		<span>
-			<a href="https://linkedin.com/in/HausCloud/" target="_blank">
+			<a href="https://linkedin.com/in/ducanthonyle/" target="_blank">
 				<img src="https://github.com/HausCloud/HausCloud/blob/master/images/svgs/linkedin.svg" width="50px" height="50px">
 			</a>
 		</span>
@@ -28,35 +27,49 @@
 
 <h3 align="center">Life Snippet</h3>
 
-<p align="center"><em>Software Engineer Grad from <a href="https://holbertonschool.com/" target="_blank">Holberton School</a></em></p>
-<p align="center"><em>Programmer Analyst at <a href="https://teamson.com" target="_blank">Teamson</a></em></p>
+<p align="center"><em>Junior Software Engineer @ <a href="https://www.ssg-llc.com/" target="_blank">SSG</a></em></p>
 
 ```python
 class HausCloud:
     def __init__(self):
-        self.alias = 'HausCloud 😎'
-        self.name = 'Anthony Le 😁'
-        self.web = 'https://hauscloud.me'
+        self.alias = "HausCloud"
+        self.name = "Anthony Le"
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JS', 'ReactJS', 'GreenSock', 'jQuery', 'Bootstrap'],
-            'backend': ['Python', 'C', 'Bash', 'Flask'],
-            'database': ['PostgreSQL', 'MySQL'],
-            'devops': ['Vagrant', 'AWS', 'Nginx', 'TOML', 'Puppet'],
-            'tools': ['Git', 'GitHub', 'SQLAlchemy', 'VS Code', 'emacs'],
+            "frontend": [
+                "HTML",
+                "CSS",
+                "JS",
+                "ReactJS",
+                "GreenSock",
+                "jQuery",
+                "Bootstrap",
+            ],
+            "programming": ["Python", "SQL", "Java", "Groovy"],
+            "devops": [
+                "AWS",
+                "Azure",
+                "Git",
+                "Docker",
+                "Vagrant",
+                "Elasticsearch",
+                "Logstash",
+                "Kibana",
+                "Jira",
+            ],
+            "frontend": ["HTML", "CSS", "Sass", "jQuery", "Kivy"],
+            "backend": ["Flask", "SQLAlchemy", "Linux", "Maven", "Insomnia"],
         }
-        self.goals = {'Visit japan 🍱': False, 'FAANG employed 🍞': False,
-                      'Buff nerd status 💪': False, 'Go skydiving 😱': False,
-                      'Open .. source. 💻': False, 'Coding demigod 🔥': False}
+        self.goals = {
+            "Visit japan": False,
+            "Buff nerd status": False,
+            "Go skydiving ": False,
+        }
 
     def determination(self):
         print(f"Hey, I'm {self.name}. Let's do the impossible 😤!")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     me = HausCloud()
     me.determination()
 ```
-<div align="center">
-<a href="https://hauscloud.me">
-	<img align="center" src="https://github-readme-stats.hauscloud.vercel.app/api?username=HausCloud&show_icons=true&theme=buefy">
-</a>
-</div>
